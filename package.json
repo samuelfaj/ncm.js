@@ -1,0 +1,23 @@
+{
+  "name": "ncm.js",
+  "version": "1.0.0",
+  "description": "Checa se um NCM é valido para a receita federal com base na tabela em excel disponbilizada por eles no site http://www.nfe.fazenda.gov.br/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelfaj/ncm.js.git"
+  },
+  "author": "Samuel Fajreldines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelfaj/ncm.js/issues"
+  },
+  "homepage": "https://github.com/samuelfaj/ncm.js#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
