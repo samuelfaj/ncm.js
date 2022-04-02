@@ -1,7 +1,7 @@
 const fs = require('fs');
 const XLSX = require('xlsx');
 
-const wb = XLSX.readFile('tabela_atualizada.xlsx');
+const wb = XLSX.readFile(__dirname + '/tabela_atualizada.xlsx');
 
 const wsname = wb.SheetNames[0];
 const ws = wb.Sheets[wsname];
