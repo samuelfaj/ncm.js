@@ -1,6 +1,6 @@
 {
   "name": "ncm.js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Checa se um NCM é valido para a receita federal com base na tabela em excel disponbilizada por eles no site http://www.nfe.fazenda.gov.br/",
   "main": "index.js",
   "scripts": {
