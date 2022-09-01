@@ -15,5 +15,5 @@ console.log(ncm_valid(`96180000`)); // True
 ```
 
 # Versão Atual
-> Versão da tabela: Tabela NCM 2022 com Utrib_Comércio Exterior_vigência  01042022- v 07.12.21.xlsx
+> Versão da tabela: Tabela NCM 2022 com Utrib_Comércio Exterior_vigência  01092022- v 01.08.22.xlsx
 > Retirada de: http://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=/NJarYc9nus=
